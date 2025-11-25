@@ -36,18 +36,7 @@
 
 <div align="center">
   
-  <!-- Alternative 1: Using anuraghazra.github.io (backup service) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Nazly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nazly&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-  <!-- Alternative 2: If above doesn't work, try this -->
-  <!-- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Nazly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Abdullah-Nazly&theme=tokyonight&hide_border=false)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah-Nazly&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
