@@ -2,32 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Abdullah+Nazly;A+passionate+Data+Scientist;From+Sri+Lanka&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
-<!-- Animated Octocats roaming around -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="100"/>
-    </td>
-    <td align="center">
-      <img src="https://octodex.github.com/images/nyantocat.gif" width="100"/>
-    </td>
-    <td align="center">
-      <img src="https://octodex.github.com/images/codercat.gif" width="100"/>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/abdullah-nazly?style=for-the-badge&logo=github&color=0891b2)](https://github.com/abdullah-nazly)
   [![GitHub stars](https://img.shields.io/github/stars/abdullah-nazly?style=for-the-badge&logo=github&color=0891b2)](https://github.com/abdullah-nazly)
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullah-nazly.abdullah-nazly&left_color=gray&right_color=0891b2)](https://github.com/abdullah-nazly)
   
-</div>
-
-<!-- Floating Octocat in header area -->
-<div align="right">
-  <img src="https://octodex.github.com/images/dojocat.jpg" width="80"/>
 </div>
 
 ---
@@ -50,11 +30,6 @@
 
 </div>
 
-<!-- Octocat exploring about section -->
-<div align="left">
-  <img src="https://octodex.github.com/images/octocat-de-los-muertos.gif" width="70"/>
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -65,18 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-nazly&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
-
-<!-- Octocat exploring stats -->
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://octodex.github.com/images/stormtroopocat.gif" width="70"/>
-    </td>
-    <td align="right">
-      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="70"/>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   
@@ -89,11 +52,6 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
-<!-- Octocat checking out languages -->
-<div align="right">
-  <img src="https://octodex.github.com/images/codercat.gif" width="60"/>
-</div>
 
 <div align="center">
   
@@ -114,11 +72,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   
-</div>
-
-<!-- Octocat exploring frontend -->
-<div align="left">
-  <img src="https://octodex.github.com/images/nyantocat.gif" width="65"/>
 </div>
 
 ### ⚙️ Backend Development
@@ -151,17 +104,7 @@
   
 </div>
 
-<!-- Octocat in cloud section -->
-<div align="right">
-  <img src="https://octodex.github.com/images/stormtroopocat.gif" width="60"/>
-</div>
-
 ### 🤖 Machine Learning & AI
-
-<!-- Octocat learning AI -->
-<div align="left">
-  <img src="https://octodex.github.com/images/robotocat.gif" width="65"/>
-</div>
 
 <div align="center">
   
@@ -186,86 +129,6 @@
 
 ---
 
-## 📈 Detailed Tech Icons
-
-### 💻 Programming Languages
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  
-</div>
-
-### 🎨 Frontend Development
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
-  
-</div>
-
-### ⚙️ Backend Development
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
-  
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  
-</div>
-
-### 🤖 Machine Learning & AI
-
-<div align="center">
-  
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-  
-</div>
-
-### 🛠️ Tools & Others
-
-<div align="center">
-  
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/>
-  
-</div>
-
----
-
 ## 📝 Current Activities
 
 <div align="center">
@@ -281,18 +144,6 @@
 ---
 
 ## 📬 Connect With Me
-
-<!-- Octocat waving hello -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://octodex.github.com/images/dojocat.jpg" width="80"/>
-    </td>
-    <td align="center">
-      <img src="https://octodex.github.com/images/nyantocat.gif" width="80"/>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   
@@ -314,11 +165,6 @@
   
   *Coming soon...*
   
-</div>
-
-<!-- Octocat exploring projects -->
-<div align="right">
-  <img src="https://octodex.github.com/images/codercat.gif" width="70"/>
 </div>
 
 ---
@@ -347,44 +193,8 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/abdullah-nazly/abdullah-nazly/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<!-- Multiple Octocats at the bottom roaming around -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://octodex.github.com/images/nyantocat.gif" width="70"/>
-    </td>
-    <td align="center">
-      <img src="https://octodex.github.com/images/stormtroopocat.gif" width="70"/>
-    </td>
-    <td align="center">
-      <img src="https://octodex.github.com/images/octocat-de-los-muertos.gif" width="70"/>
-    </td>
-    <td align="center">
-      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="70"/>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  
   **Thanks for visiting! 😊**
   
   ⭐️ From [abdullah-nazly](https://github.com/abdullah-nazly)
   
 </div>
-
-<!-- More roaming Octocats -->
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://octodex.github.com/images/robotocat.gif" width="60"/>
-    </td>
-    <td align="right">
-      <img src="https://octodex.github.com/images/dojocat.jpg" width="60"/>
-    </td>
-  </tr>
-</table>
