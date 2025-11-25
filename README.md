@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/abdullah-nazly?style=for-the-badge&logo=github&color=0891b2)](https://github.com/abdullah-nazly)
-  [![GitHub stars](https://img.shields.io/github/stars/abdullah-nazly?style=for-the-badge&logo=github&color=0891b2)](https://github.com/abdullah-nazly)
-  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullah-nazly.abdullah-nazly&left_color=gray&right_color=0891b2)](https://github.com/abdullah-nazly)
+  [![GitHub followers](https://img.shields.io/github/followers/Abdullah-Nazly?style=for-the-badge&logo=github&color=0891b2)](https://github.com/Abdullah-Nazly)
+  [![GitHub stars](https://img.shields.io/github/stars/Abdullah-Nazly?style=for-the-badge&logo=github&color=0891b2)](https://github.com/Abdullah-Nazly)
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Nazly.Abdullah-Nazly&left_color=gray&right_color=0891b2)](https://github.com/Abdullah-Nazly)
   
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<div align="center">
+<div align="left">
   
   ```yaml
   Name: Abdullah Nazly
@@ -36,14 +36,14 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah-nazly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-nazly&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Nazly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nazly&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=abdullah-nazly&theme=tokyonight&hide_border=false)
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Abdullah-Nazly&theme=tokyonight&hide_border=false)
   
 </div>
 
@@ -131,7 +131,7 @@
 
 ## 📝 Current Activities
 
-<div align="center">
+<div align="left">
   
   - 🔭 **Currently Working On:** Opstimus
   - 🌱 **Currently Learning:** [Your learning goals here]
@@ -195,6 +195,6 @@
   
   **Thanks for visiting! 😊**
   
-  ⭐️ From [abdullah-nazly](https://github.com/abdullah-nazly)
+  ⭐️ From [Abdullah-Nazly](https://github.com/Abdullah-Nazly)
   
 </div>
