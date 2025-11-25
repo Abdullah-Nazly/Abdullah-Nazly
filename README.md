@@ -35,8 +35,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdullah_Nazly&theme=nightowl" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdullah_Nazly&theme=nightowl)](https://git.io/streak-stats)
+
 </div>
 
 ---
