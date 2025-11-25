@@ -36,8 +36,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah-Nazly&theme=dark)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah-Nazly&theme=dark)](https://git.io/streak-stats)  
 </div>
 
 ---
