@@ -48,32 +48,3 @@ I'm currently working at OPStimus Solutions Pvt Ltd<br> I'm collaborating with G
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white)
 
-# 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Abdullah-Nazly&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Nazly&theme=blue_navy&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nazly&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Abdullah-Nazly&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Abdullah-Nazly&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
